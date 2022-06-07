@@ -1,0 +1,11 @@
+button { margin-left : 400px ; }
+  button {
+  width: 20em;
+  height: 3em;
+}
+font { margin-left : 400px ;}
+a {
+  width: 20em;
+  height: 3em;
+}
+<link rel="stylesheet" media="screen and (max-width: 768px)" type="text/css" href="tablet.css"><!-- 768px?? -->
