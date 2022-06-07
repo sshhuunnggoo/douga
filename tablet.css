@@ -8,4 +8,4 @@ a {
   width: 20em;
   height: 3em;
 }
-<link rel="stylesheet" media="screen and (max-width: 768px)" type="text/css" href="tablet.css"><!-- 768px?? -->
+<link rel="stylesheet" href="tablet.css"  media="(max-width:768px) and (min-width: 321px)">
