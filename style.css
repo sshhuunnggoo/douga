@@ -27,6 +27,8 @@ header nav ul li a {
 header nav ul li a:hover{
   text-decoration: underline double;
 }
-footer {
-margin: left;
+footer { margin-left : 400px ; }
+  footer {
+  width: 20em;
+  height: 3em;
 }
