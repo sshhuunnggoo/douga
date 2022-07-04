@@ -34,5 +34,7 @@ background-color: #523f2e;
   padding: 14px 10px 20px;
 }
 @media screen and (max-width: 640px){
-
+  img {
+  margin-left: 400px;
+  }
 }
