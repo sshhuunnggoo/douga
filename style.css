@@ -39,6 +39,7 @@ background-color: #523f2e;
   }
   marquee {
   margin-left: 60px;
+    max-width: 100%;
   }
   font {
   margin-left: 60px
