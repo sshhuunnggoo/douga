@@ -35,6 +35,10 @@ background-color: #523f2e;
 }
 @media screen and (max-width: 640px){
   img {
-  margin-left: 400px;
+  margin-left: 185px;
+  }
+  marquee {
+  margin-left: 185px;
+    width: 150;
   }
 }
