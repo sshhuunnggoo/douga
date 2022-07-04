@@ -27,3 +27,9 @@ header nav ul li a {
 header nav ul li a:hover{
   text-decoration: underline double;
 }
+footer{
+background-color: #523f2e;
+  color: #ffffff;
+  text-align: center;
+  padding: 14px 10px 20px;
+}
