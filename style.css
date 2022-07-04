@@ -35,9 +35,9 @@ background-color: #523f2e;
 }
 @media screen and (max-width: 640px){
   img {
-  margin-left: auto;
+  margin-left: 60px;
   }
   marquee {
-  margin-left: auto;
+  margin-left: 60px;
   }
 }
